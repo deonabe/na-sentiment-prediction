@@ -10,3 +10,7 @@ __pycache__/
 
 # Model files
 results/models/*.pkl
+
+final_team_data_with_sentiment.csv
+merged_data.csv
+merged_player_data.csv
