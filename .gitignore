@@ -1,0 +1,12 @@
+# Virtualenv folder
+venv/
+
+# Data folders
+data/raw/
+data/external/
+
+# Python bytecode files
+__pycache__/
+
+# Model files
+results/models/*.pkl

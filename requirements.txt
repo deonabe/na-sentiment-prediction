@@ -1,0 +1,26 @@
+# Core dependencies for data science
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning libraries
+scikit-learn
+statsmodels
+
+# Sentiment analysis
+vanderSentiment
+praw
+
+# Other utilities
+requests
+scipy
+
+# To store and load credentials safely
+python-dotenv
+
+# For handling Jupyter Notebooks (if you're using them)
+jupyter
+
+# For managing virtual environments (optional)
+virtualenv
